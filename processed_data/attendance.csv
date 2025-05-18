@@ -1,4 +1,4 @@
-year,team_full,week,weekly_attendance,home
+year,team_full_name,week,weekly_attendance,home
 2000,Arizona Cardinals,1,77434.0,False
 2000,Arizona Cardinals,2,66009.0,True
 2000,Arizona Cardinals,3,,

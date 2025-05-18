@@ -4,8 +4,6 @@ import kagglehub
 # Download latest version
 path = kagglehub.dataset_download("sujaykapadnis/nfl-stadium-attendance-dataset")
 
-print("Path to dataset files:", path)
-
 #%% [markdown]
 # Downloading csv
 
@@ -20,7 +18,7 @@ files = os.listdir(path)
 csv_files = [file for file in files if file.endswith('.csv')]
 
 # Specify the destination folder
-destination_folder = "./downloaded_csv_files"
+destination_folder = "./original_data"
 os.makedirs(destination_folder, exist_ok=True)
 
 # Copy the .csv files to the destination folder
