@@ -108,3 +108,100 @@ standings_df.to_csv(os.path.join(data_folder, 'standings.csv'), index=False)
 special_games_df.to_csv(os.path.join(data_folder, 'special_games.csv'), index=False)
 
 
+import pandas as pd
+
+input_file  = "original_data/attendance.csv"
+df = pd.read_csv(input_file)
+df["home_team"] = (
+    df["team"].str.strip().str.title()
+    + " "
+    + df["team_name"].str.strip().str.title()
+)
+
+team_stadium_map = {
+    "Arizona Cardinals": "State Farm Stadium",
+    "Atlanta Falcons": "Mercedes Benz Stadium",
+    "Baltimore Ravens": "M&T Bank Stadium",
+    "Buffalo Bills": "Highmark Stadium",
+    "Carolina Panthers": "Bank of America Stadium",
+    "Chicago Bears": "Soldier Field",
+    "Cincinnati Bengals": "Paycor Stadium",
+    "Cleveland Browns": "Huntington Bank Field",
+    "Dallas Cowboys": "AT&T Stadium",
+    "Denver Broncos": "Empower Field at Mile High",
+    "Detroit Lions": "Ford Field",
+    "Green Bay Packers": "Lambeau Field",
+    "Houston Texans": "NRG Stadium",
+    "Indianapolis Colts": "Lucas Oil Stadium",
+    "Jacksonville Jaguars": "TIAA Bank Field",
+    "Kansas City Chiefs": "Arrowhead Stadium",
+    "Las Vegas Raiders": "Allegiant Stadium",
+    "Los Angeles Chargers": "SoFi Stadium",
+    "St. Louis Rams": "SoFi Stadium",
+    "Los Angeles Rams": "SoFi Stadium",
+    "Miami Dolphins": "Hard Rock Stadium",
+    "Minnesota Vikings": "U.S. Bank Stadium",
+    "New England Patriots": "Gillette Stadium",
+    "New Orleans Saints": "Caesars Superdome",
+    "New York Giants": "MetLife Stadium",
+    "New York Jets": "MetLife Stadium",
+    "Philadelphia Eagles": "Lincoln Financial Field",
+    "Pittsburgh Steelers": "Acrisure Stadium",
+    "San Francisco 49Ers": "Levi's Stadium",
+    "Seattle Seahawks": "Lumen Field",
+    "Tampa Bay Buccaneers": "Raymond James Stadium",
+    "Tennessee Titans": "Nissan Stadium",
+    "Washington Redskins": "Commanders Field",
+    "San Diego Chargers":"San Diego Stadium",
+    "Oakland Raiders":"Allegiant Stadium",
+}
+
+df["stadium"] = df["home_team"].map(team_stadium_map)
+
+missing = df["stadium"].isna().sum()
+print(f"{missing} no stadium")
+
+print(df[["home_team", "stadium"]].head())
+df_games = df
+map_capacity = {
+        'MetLife Stadium': 82500,
+        'Lambeau Field': 81441,
+        'AT&T Stadium': 80000,
+        'Arrowhead Stadium': 76416,
+        'Caesars Superdome': 73208,
+        'NRG Stadium': 72220,
+        'Mercedes-Benz Stadium': 71000,
+        'Highmark Stadium': 71608,
+        'SoFi Stadium': 70240,
+        'M&T Bank Stadium': 71008,
+        'Empower Field at Mile High': 76125,
+        'Bank of America Stadium': 74867,
+        'Lincoln Financial Field': 69596,
+        'Lumen Field': 69000,
+        'Nissan Stadium': 69143,
+        'Raymond James Stadium': 69218,
+        'Acrisure Stadium': 68400,
+        "Levi's Stadium": 68500,
+        'Gillette Stadium': 66829,
+        'U.S. Bank Stadium': 66655,
+        'Lucas Oil Stadium': 67000,
+        'Hard Rock Stadium': 65326,
+        'Ford Field': 65000,
+        'Paycor Stadium': 65515,
+        'Allegiant Stadium': 65000,
+        'Soldier Field': 61500,
+        'State Farm Stadium': 63400,
+        'TIAA Bank Field': 67246,
+        'Commanders Field': 62000,
+        'Mercedes Benz Stadium': 71000,  
+        'Huntington Bank Field': 67895,  
+        'San Diego Stadium': 71500
+    }
+df_games["capacity"] = df_games["stadium"].map(map_capacity)
+df_games["capacity_rate"] = df_games["capacity"]/df_games["weekly_attendance"]
+for i in range(len(df_games["capacity_rate"])):
+    if df_games["capacity_rate"][i] > 1:
+        df_games["capacity_rate"][i]=1
+df_games.to_csv("attendance_capacity_rate.csv", index=False)
+
+print(df_games.head())
