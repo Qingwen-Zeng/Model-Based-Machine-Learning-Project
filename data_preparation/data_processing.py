@@ -22,7 +22,7 @@ standings_df["team_full_name"] = standings_df["team"] + " " + standings_df["team
 standings_df = standings_df.drop(columns=["team", "team_name"])
 
 # Drop this columns from scores_df 
-games_df = games_df.drop(columns=["home_team_name", "away_team_name", "away_team_city"])
+games_df = games_df.drop(columns=["home_team_name", "away_team_name"])
 
 
 # %%
@@ -51,7 +51,7 @@ attendance_df["team_full_name"] = attendance_df["team_full_name"].astype("string
 
 # Specify column types for games_df
 games_df[["year", "week", "pts_win", "pts_loss", "yds_win", "yds_loss", "turnovers_win", "turnovers_loss"]] = games_df[["year", "week", "pts_win", "pts_loss", "yds_win", "yds_loss", "turnovers_win", "turnovers_loss"]].astype("Int16", errors="ignore")
-games_df[["home_team", "away_team", "home_team_city"]] = games_df[["home_team", "away_team", "home_team_city"]].astype("string")
+games_df[["home_team", "away_team", "home_team_city", "away_team_city"]] = games_df[["home_team", "away_team", "home_team_city", "away_team_city"]].astype("string")
 
 # Specify column types for standings_df
 standings_df[["year", "wins", "loss", "points_for", "points_against", "points_differential"]] = standings_df[["year", "wins", "loss", "points_for", "points_against", "points_differential"]].astype("Int16", errors="ignore")

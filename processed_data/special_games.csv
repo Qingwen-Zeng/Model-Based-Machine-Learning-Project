@@ -1,221 +1,221 @@
-year,week,home_team,away_team,winner,tie,day,date,time,pts_win,pts_loss,yds_win,turnovers_win,yds_loss,turnovers_loss,home_team_city
-2000,WildCard,Miami Dolphins,Indianapolis Colts,Miami Dolphins,,Sat,December 30,12:33PM,23,17,434,3,293,0,Miami
-2000,WildCard,New Orleans Saints,St. Louis Rams,New Orleans Saints,,Sat,December 30,4:05PM,31,28,301,2,384,5,New Orleans
-2000,WildCard,Baltimore Ravens,Denver Broncos,Baltimore Ravens,,Sun,December 31,12:35PM,21,3,240,0,177,1,Baltimore
-2000,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,,Sun,December 31,4:16PM,21,3,277,1,199,1,Philadelphia
-2000,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,,Sat,January 6,12:30PM,34,16,429,0,355,2,Minnesota
-2000,Division,Oakland Raiders,Miami Dolphins,Oakland Raiders,,Sat,January 6,4:05PM,27,0,267,1,204,4,Oakland
-2000,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,,Sun,January 7,12:35PM,24,10,134,0,317,1,Tennessee
-2000,Division,New York Giants,Philadelphia Eagles,New York Giants,,Sun,January 7,4:15PM,20,10,237,3,186,3,New York
-2000,ConfChamp,New York Giants,Minnesota Vikings,New York Giants,,Sun,January 14,12:37PM,41,0,518,2,114,5,New York
-2000,ConfChamp,Oakland Raiders,Baltimore Ravens,Baltimore Ravens,,Sun,January 14,4:05PM,16,3,282,2,191,5,Oakland
-2000,SuperBowl,Baltimore Ravens,New York Giants,Baltimore Ravens,,Sun,January 28,6:28PM,34,7,244,0,152,5,Baltimore
-2001,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,,Sat,January 12,4:39PM,31,9,334,1,258,4,Philadelphia
-2001,WildCard,Oakland Raiders,New York Jets,Oakland Raiders,,Sat,January 12,8:07PM,38,24,502,0,410,2,Oakland
-2001,WildCard,Green Bay Packers,San Francisco 49ers,Green Bay Packers,,Sun,January 13,12:35PM,25,15,368,1,290,2,Green Bay
-2001,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,,Sun,January 13,4:05PM,20,3,347,1,151,3,Miami
-2001,Division,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,,Sat,January 19,4:37PM,33,19,336,1,184,4,Chicago
-2001,Division,New England Patriots,Oakland Raiders,New England Patriots,,Sat,January 19,8:05PM,16,13,365,1,230,0,New England
-2001,Division,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sun,January 20,12:40PM,27,10,297,1,150,4,Pittsburgh
-2001,Division,St. Louis Rams,Green Bay Packers,St. Louis Rams,,Sun,January 20,4:15PM,45,17,292,1,383,8,St. Louis
-2001,ConfChamp,Pittsburgh Steelers,New England Patriots,New England Patriots,,Sun,January 27,12:40PM,24,17,259,0,306,4,Pittsburgh
-2001,ConfChamp,St. Louis Rams,Philadelphia Eagles,St. Louis Rams,,Sun,January 27,4:27PM,29,24,371,0,256,2,St. Louis
-2001,SuperBowl,New England Patriots,St. Louis Rams,New England Patriots,,Sun,February 3,6:40PM,20,17,267,0,427,3,New England
-2002,WildCard,New York Jets,Indianapolis Colts,New York Jets,,Sat,January 4,4:39PM,41,0,396,0,176,3,New York
-2002,WildCard,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,,Sat,January 4,8:08PM,27,7,309,0,289,5,Green Bay
-2002,WildCard,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,,Sun,January 5,1:01PM,36,33,432,3,447,1,Pittsburgh
-2002,WildCard,San Francisco 49ers,New York Giants,San Francisco 49ers,,Sun,January 5,4:47PM,39,38,446,2,446,1,San Francisco
-2002,Division,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,,Sat,January 11,4:36PM,34,31,430,4,324,1,Tennessee
-2002,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sat,January 11,8:21PM,20,6,318,0,354,2,Philadelphia
-2002,Division,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers,,Sun,January 12,1:01PM,31,6,329,2,228,5,Tampa Bay
-2002,Division,Oakland Raiders,New York Jets,Oakland Raiders,,Sun,January 12,4:45PM,30,10,399,1,287,4,Oakland
-2002,ConfChamp,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,,Sun,January 19,3:08PM,27,10,308,1,312,3,Philadelphia
-2002,ConfChamp,Oakland Raiders,Tennessee Titans,Oakland Raiders,,Sun,January 19,6:47PM,41,24,375,1,312,2,Oakland
-2002,SuperBowl,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers,,Sun,January 26,6:26PM,48,21,365,1,269,5,Tampa Bay
-2003,WildCard,Baltimore Ravens,Tennessee Titans,Tennessee Titans,,Sat,January 3,4:37PM,20,17,324,3,255,2,Baltimore
-2003,WildCard,Carolina Panthers,Dallas Cowboys,Carolina Panthers,,Sat,January 3,8:09PM,29,10,380,0,204,2,Carolina
-2003,WildCard,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sun,January 4,1:04PM,33,27,397,0,340,1,Green Bay
-2003,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,,Sun,January 4,4:42PM,41,10,479,1,322,3,Indianapolis
-2003,Division,St. Louis Rams,Carolina Panthers,Carolina Panthers,,Sat,January 10,4:30PM,29,23,485,1,380,3,St. Louis
-2003,Division,New England Patriots,Tennessee Titans,New England Patriots,,Sat,January 10,8:15PM,17,14,297,1,284,1,New England
-2003,Division,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,,Sun,January 11,1:00PM,38,31,434,0,408,1,Kansas City
-2003,Division,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,,Sun,January 11,4:46PM,20,17,363,1,381,1,Philadelphia
-2003,ConfChamp,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 18,3:06PM,24,14,349,2,306,5,New England
-2003,ConfChamp,Philadelphia Eagles,Carolina Panthers,Carolina Panthers,,Sun,January 18,6:50PM,14,3,256,0,289,4,Philadelphia
-2003,SuperBowl,New England Patriots,Carolina Panthers,New England Patriots,,Sun,February 1,6:25PM,32,29,481,1,387,1,New England
-2004,WildCard,Seattle Seahawks,St. Louis Rams,St. Louis Rams,,Sat,January 8,4:37PM,27,20,396,1,413,1,Seattle
-2004,WildCard,San Diego Chargers,New York Jets,New York Jets,,Sat,January 8,8:14PM,20,17,396,0,408,1,San Diego
-2004,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,,Sun,January 9,1:07PM,49,24,530,1,338,1,Indianapolis
-2004,WildCard,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,,Sun,January 9,4:39PM,31,17,384,0,306,4,Green Bay
-2004,Division,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,,Sat,January 15,4:36PM,20,17,364,3,275,1,Pittsburgh
-2004,Division,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,,Sat,January 15,8:22PM,47,17,397,1,339,2,Atlanta
-2004,Division,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,,Sun,January 16,1:06PM,27,14,395,1,385,2,Philadelphia
-2004,Division,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 16,4:45PM,20,3,325,0,276,3,New England
-2004,ConfChamp,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sun,January 23,3:08PM,27,10,326,0,202,1,Philadelphia
-2004,ConfChamp,Pittsburgh Steelers,New England Patriots,New England Patriots,,Sun,January 23,6:36PM,41,27,322,0,388,4,Pittsburgh
-2004,SuperBowl,New England Patriots,Philadelphia Eagles,New England Patriots,,Sun,February 6,6:38PM,24,21,331,1,369,4,New England
-2005,WildCard,Tampa Bay Buccaneers,Washington Redskins,Washington Redskins,,Sat,January 7,4:34PM,17,10,120,1,243,3,Tampa Bay
-2005,WildCard,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sat,January 7,8:08PM,28,3,307,0,292,2,New England
-2005,WildCard,New York Giants,Carolina Panthers,Carolina Panthers,,Sun,January 8,1:04PM,23,0,335,0,132,5,New York
-2005,WildCard,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 8,4:36PM,31,17,346,0,327,2,Cincinnati
-2005,Division,Seattle Seahawks,Washington Redskins,Seattle Seahawks,,Sat,January 14,4:35PM,20,10,334,3,289,1,Seattle
-2005,Division,Denver Broncos,New England Patriots,Denver Broncos,,Sat,January 14,8:16PM,27,13,286,1,420,5,Denver
-2005,Division,Indianapolis Colts,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 15,1:04PM,21,18,295,2,305,0,Indianapolis
-2005,Division,Chicago Bears,Carolina Panthers,Carolina Panthers,,Sun,January 15,4:41PM,29,21,434,1,282,1,Chicago
-2005,ConfChamp,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 22,3:08PM,34,17,358,0,308,4,Denver
-2005,ConfChamp,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,,Sun,January 22,6:47PM,34,14,393,0,212,4,Seattle
-2005,SuperBowl,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,,Sun,February 5,6:27PM,21,10,339,2,396,1,Pittsburgh
-2006,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,,Sat,January 6,4:35PM,23,8,435,3,126,3,Indianapolis
-2006,WildCard,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,,Sat,January 6,8:09PM,21,20,332,2,284,1,Seattle
-2006,WildCard,New England Patriots,New York Jets,New England Patriots,,Sun,January 7,1:05PM,37,16,358,1,347,2,New England
-2006,WildCard,Philadelphia Eagles,New York Giants,Philadelphia Eagles,,Sun,January 7,4:39PM,23,20,323,0,305,1,Philadelphia
-2006,Division,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,,Sat,January 13,4:35PM,15,6,261,2,244,4,Baltimore
-2006,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,,Sat,January 13,8:11PM,27,24,435,1,355,0,New Orleans
-2006,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,,Sun,January 14,1:06PM,27,24,371,2,306,1,Chicago
-2006,Division,San Diego Chargers,New England Patriots,New England Patriots,,Sun,January 14,4:40PM,24,21,327,3,352,4,San Diego
-2006,ConfChamp,Chicago Bears,New Orleans Saints,Chicago Bears,,Sun,January 21,3:06PM,39,14,340,0,375,4,Chicago
-2006,ConfChamp,Indianapolis Colts,New England Patriots,Indianapolis Colts,,Sun,January 21,6:44PM,38,34,455,1,319,1,Indianapolis
-2006,SuperBowl,Indianapolis Colts,Chicago Bears,Indianapolis Colts,,Sun,February 4,6:27PM,29,17,430,3,265,5,Indianapolis
-2007,WildCard,Seattle Seahawks,Washington Redskins,Seattle Seahawks,,Sat,January 5,4:35PM,35,14,304,2,319,2,Seattle
-2007,WildCard,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,,Sat,January 5,8:13PM,31,29,239,2,340,4,Pittsburgh
-2007,WildCard,Tampa Bay Buccaneers,New York Giants,New York Giants,,Sun,January 6,1:03PM,24,14,277,0,271,3,Tampa Bay
-2007,WildCard,San Diego Chargers,Tennessee Titans,San Diego Chargers,,Sun,January 6,4:30PM,17,6,350,1,248,2,San Diego
-2007,Division,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sat,January 12,4:33PM,42,20,408,2,200,1,Green Bay
-2007,Division,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sat,January 12,8:15PM,31,20,403,0,350,2,New England
-2007,Division,Indianapolis Colts,San Diego Chargers,San Diego Chargers,,Sun,January 13,1:06PM,28,24,411,1,446,3,Indianapolis
-2007,Division,Dallas Cowboys,New York Giants,New York Giants,,Sun,January 13,4:45PM,21,17,230,0,336,1,Dallas
-2007,ConfChamp,New England Patriots,San Diego Chargers,New England Patriots,,Sun,January 20,3:05PM,21,12,347,3,311,2,New England
-2007,ConfChamp,Green Bay Packers,New York Giants,New York Giants,,Sun,January 20,6:42PM,23,20,377,1,264,2,Green Bay
-2007,SuperBowl,New York Giants,New England Patriots,New York Giants,,Sun,February 3,6:30PM,17,14,338,1,274,1,New York
-2008,WildCard,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,,Sat,January 3,4:36PM,30,24,357,1,250,3,Arizona
-2008,WildCard,San Diego Chargers,Indianapolis Colts,San Diego Chargers,,Sat,January 3,8:08PM,23,17,357,2,366,0,San Diego
-2008,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,,Sun,January 4,1:03PM,27,9,286,1,276,5,Miami
-2008,WildCard,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 4,4:40PM,26,14,350,2,301,2,Minnesota
-2008,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,,Sat,January 10,4:33PM,13,10,211,0,391,3,Tennessee
-2008,Division,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,,Sat,January 10,8:16PM,33,13,360,1,269,6,Carolina
-2008,Division,New York Giants,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 11,1:06PM,23,11,276,2,307,3,New York
-2008,Division,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,,Sun,January 11,4:45PM,35,24,342,0,290,2,Pittsburgh
-2008,ConfChamp,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,,Sun,January 18,4:06PM,32,25,369,1,454,3,Arizona
-2008,ConfChamp,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sun,January 18,6:43PM,23,14,275,1,198,4,Pittsburgh
-2008,SuperBowl,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers,,Sun,February 1,6:31PM,27,23,292,1,407,2,Pittsburgh
-2009,WildCard,Cincinnati Bengals,New York Jets,New York Jets,,Sat,January 9,4:36PM,24,14,353,0,281,2,Cincinnati
-2009,WildCard,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,,Sat,January 9,8:05PM,34,14,426,1,340,4,Dallas
-2009,WildCard,New England Patriots,Baltimore Ravens,Baltimore Ravens,,Sun,January 10,1:03PM,33,14,268,2,196,4,New England
-2009,WildCard,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,,Sun,January 10,4:30PM,51,45,531,1,493,3,Arizona
-2009,Division,New Orleans Saints,Arizona Cardinals,New Orleans Saints,,Sat,January 16,4:34PM,45,14,418,0,359,2,New Orleans
-2009,Division,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,,Sat,January 16,8:15PM,20,3,275,1,270,4,Indianapolis
-2009,Division,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,,Sun,January 17,1:05PM,34,3,323,0,248,3,Minnesota
-2009,Division,San Diego Chargers,New York Jets,New York Jets,,Sun,January 17,4:40PM,17,14,262,1,344,2,San Diego
-2009,ConfChamp,Indianapolis Colts,New York Jets,Indianapolis Colts,,Sun,January 24,3:05PM,30,17,461,1,388,1,Indianapolis
-2009,ConfChamp,New Orleans Saints,Minnesota Vikings,New Orleans Saints,,Sun,January 24,6:45PM,31,28,257,1,475,5,New Orleans
-2009,SuperBowl,New Orleans Saints,Indianapolis Colts,New Orleans Saints,,Sun,February 7,6:31PM,31,17,332,0,432,1,New Orleans
-2010,WildCard,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,,Sat,January 8,4:35PM,41,36,415,1,474,1,Seattle
-2010,WildCard,Indianapolis Colts,New York Jets,New York Jets,,Sat,January 8,8:15PM,17,16,353,1,312,0,Indianapolis
-2010,WildCard,Kansas City Chiefs,Baltimore Ravens,Baltimore Ravens,,Sun,January 9,1:06PM,30,7,390,2,161,5,Kansas City
-2010,WildCard,Philadelphia Eagles,Green Bay Packers,Green Bay Packers,,Sun,January 9,4:40PM,21,16,309,2,352,1,Philadelphia
-2010,Division,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sat,January 15,4:35PM,31,24,263,2,126,3,Pittsburgh
-2010,Division,Atlanta Falcons,Green Bay Packers,Green Bay Packers,,Sat,January 15,8:15PM,48,21,442,1,194,4,Atlanta
-2010,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,,Sun,January 16,1:05PM,35,24,437,1,276,0,Chicago
-2010,Division,New England Patriots,New York Jets,New York Jets,,Sun,January 16,4:40PM,28,21,314,0,372,1,New England
-2010,ConfChamp,Chicago Bears,Green Bay Packers,Green Bay Packers,,Sun,January 23,3:05PM,21,14,356,2,301,3,Chicago
-2010,ConfChamp,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,,Sun,January 23,6:41PM,24,19,287,2,289,1,Pittsburgh
-2010,SuperBowl,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,,Sun,February 6,6:34PM,31,25,338,0,387,3,Green Bay
-2011,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,,Sat,January 7,4:35PM,31,10,340,0,300,3,Houston
-2011,WildCard,New Orleans Saints,Detroit Lions,New Orleans Saints,,Sat,January 7,8:09PM,45,28,626,2,412,2,New Orleans
-2011,WildCard,New York Giants,Atlanta Falcons,New York Giants,,Sun,January 8,1:06PM,24,2,442,0,247,0,New York
-2011,WildCard,Denver Broncos,Pittsburgh Steelers,Denver Broncos,,Sun,January 8,4:40PM,29,23,447,1,400,1,Denver
-2011,Division,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,,Sat,January 14,4:35PM,36,32,407,1,472,5,San Francisco
-2011,Division,New England Patriots,Denver Broncos,New England Patriots,,Sat,January 14,8:15PM,45,10,509,2,252,1,New England
-2011,Division,Baltimore Ravens,Houston Texans,Baltimore Ravens,,Sun,January 15,1:05PM,20,13,227,0,315,4,Baltimore
-2011,Division,Green Bay Packers,New York Giants,New York Giants,,Sun,January 15,4:40PM,37,20,420,1,388,4,Green Bay
-2011,ConfChamp,New England Patriots,Baltimore Ravens,New England Patriots,,Sun,January 22,3:05PM,23,20,330,3,398,1,New England
-2011,ConfChamp,San Francisco 49ers,New York Giants,New York Giants,,Sun,January 22,6:41PM,20,17,352,0,328,2,San Francisco
-2011,SuperBowl,New York Giants,New England Patriots,New York Giants,,Sun,February 5,6:30PM,21,17,396,0,349,1,New York
-2012,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,,Sat,January 5,4:35PM,19,13,420,1,198,1,Houston
-2012,WildCard,Green Bay Packers,Minnesota Vikings,Green Bay Packers,,Sat,January 5,8:09PM,24,10,326,0,324,3,Green Bay
-2012,WildCard,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,,Sun,January 6,1:07PM,24,9,439,2,419,2,Baltimore
-2012,WildCard,Washington Redskins,Seattle Seahawks,Seattle Seahawks,,Sun,January 6,4:40PM,24,14,380,1,203,2,Washington
-2012,Division,Denver Broncos,Baltimore Ravens,Baltimore Ravens,,Sat,January 12,4:36PM,38,35,479,1,398,3,Denver
-2012,Division,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,,Sat,January 12,8:25PM,45,31,579,1,352,2,San Francisco
-2012,Division,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,,Sun,January 13,1:05PM,30,28,417,2,491,2,Atlanta
-2012,Division,New England Patriots,Houston Texans,New England Patriots,,Sun,January 13,4:40PM,41,28,457,0,425,1,New England
-2012,ConfChamp,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,,Sun,January 20,3:05PM,28,24,373,1,477,2,Atlanta
-2012,ConfChamp,New England Patriots,Baltimore Ravens,Baltimore Ravens,,Sun,January 20,6:40PM,28,13,356,0,428,3,New England
-2012,SuperBowl,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens,,Sun,February 3,6:31PM,34,31,367,1,468,2,Baltimore
-2013,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,,Sat,January 4,4:35PM,45,44,536,4,513,1,Indianapolis
-2013,WildCard,Philadelphia Eagles,New Orleans Saints,New Orleans Saints,,Sat,January 4,8:14PM,26,24,434,2,256,0,Philadelphia
-2013,WildCard,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,,Sun,January 5,1:06PM,27,10,318,0,439,4,Cincinnati
-2013,WildCard,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,,Sun,January 5,4:40PM,23,20,381,1,281,0,Green Bay
-2013,Division,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,,Sat,January 11,4:36PM,23,15,277,0,409,1,Seattle
-2013,Division,New England Patriots,Indianapolis Colts,New England Patriots,,Sat,January 11,8:15PM,43,22,419,0,386,4,New England
-2013,Division,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,,Sun,January 12,1:05PM,23,10,315,0,325,2,Carolina
-2013,Division,Denver Broncos,San Diego Chargers,Denver Broncos,,Sun,January 12,4:40PM,24,17,363,2,259,0,Denver
-2013,ConfChamp,Denver Broncos,New England Patriots,Denver Broncos,,Sun,January 19,3:06PM,26,16,507,0,320,0,Denver
-2013,ConfChamp,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,,Sun,January 19,6:42PM,23,17,308,1,308,3,Seattle
-2013,SuperBowl,Seattle Seahawks,Denver Broncos,Seattle Seahawks,,Sun,February 2,6:32PM,43,8,341,0,306,4,Seattle
-2014,WildCard,Carolina Panthers,Arizona Cardinals,Carolina Panthers,,Sat,January 3,4:20PM,27,16,386,3,78,3,Carolina
-2014,WildCard,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,,Sat,January 3,8:15PM,30,17,299,1,387,3,Pittsburgh
-2014,WildCard,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,,Sun,January 4,1:05PM,26,10,482,1,254,1,Indianapolis
-2014,WildCard,Dallas Cowboys,Detroit Lions,Dallas Cowboys,,Sun,January 4,4:41PM,24,20,315,1,397,3,Dallas
-2014,Division,New England Patriots,Baltimore Ravens,New England Patriots,,Sat,January 10,4:35PM,35,31,422,1,428,2,New England
-2014,Division,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,,Sat,January 10,8:21PM,31,17,348,0,362,3,Seattle
-2014,Division,Green Bay Packers,Dallas Cowboys,Green Bay Packers,,Sun,January 11,1:05PM,26,21,416,1,315,1,Green Bay
-2014,Division,Denver Broncos,Indianapolis Colts,Indianapolis Colts,,Sun,January 11,4:40PM,24,13,364,2,288,1,Denver
-2014,ConfChamp,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,,Sun,January 18,3:06PM,28,22,397,5,306,2,Seattle
-2014,ConfChamp,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 18,6:50PM,45,7,397,1,209,3,New England
-2014,SuperBowl,New England Patriots,Seattle Seahawks,New England Patriots,,Sun,February 1,6:30PM,28,24,377,2,396,1,New England
-2015,WildCard,Houston Texans,Kansas City Chiefs,Kansas City Chiefs,,Sat,January 9,4:35PM,30,0,314,1,226,5,Houston
-2015,WildCard,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,,Sat,January 9,8:15PM,18,16,369,2,279,4,Cincinnati
-2015,WildCard,Minnesota Vikings,Seattle Seahawks,Seattle Seahawks,,Sun,January 10,1:05PM,10,9,226,1,183,1,Minnesota
-2015,WildCard,Washington Redskins,Green Bay Packers,Green Bay Packers,,Sun,January 10,4:42PM,35,18,346,1,354,1,Washington
-2015,Division,New England Patriots,Kansas City Chiefs,New England Patriots,,Sat,January 16,4:35PM,27,20,340,0,378,1,New England
-2015,Division,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,,Sat,January 16,8:15PM,26,20,368,2,386,1,Arizona
-2015,Division,Carolina Panthers,Seattle Seahawks,Carolina Panthers,,Sun,January 17,1:06PM,31,24,295,0,403,2,Carolina
-2015,Division,Denver Broncos,Pittsburgh Steelers,Denver Broncos,,Sun,January 17,4:40PM,23,16,324,0,396,1,Denver
-2015,ConfChamp,Denver Broncos,New England Patriots,Denver Broncos,,Sun,January 24,3:05PM,20,18,244,1,336,2,Denver
-2015,ConfChamp,Carolina Panthers,Arizona Cardinals,Carolina Panthers,,Sun,January 24,6:42PM,49,15,476,1,287,7,Carolina
-2015,SuperBowl,Denver Broncos,Carolina Panthers,Denver Broncos,,Sun,February 7,6:39PM,24,10,194,2,315,4,Denver
-2016,WildCard,Houston Texans,Oakland Raiders,Houston Texans,,Sat,January 7,4:35PM,27,14,291,0,203,3,Houston
-2016,WildCard,Seattle Seahawks,Detroit Lions,Seattle Seahawks,,Sat,January 7,8:15PM,26,6,387,0,231,0,Seattle
-2016,WildCard,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,,Sun,January 8,1:05PM,30,12,367,2,305,3,Pittsburgh
-2016,WildCard,Green Bay Packers,New York Giants,Green Bay Packers,,Sun,January 8,4:40PM,38,13,406,0,365,2,Green Bay
-2016,Division,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,,Sat,January 14,4:35PM,36,20,422,0,309,2,Atlanta
-2016,Division,New England Patriots,Houston Texans,New England Patriots,,Sat,January 14,8:15PM,34,16,377,3,285,3,New England
-2016,Division,Dallas Cowboys,Green Bay Packers,Green Bay Packers,,Sun,January 15,4:40PM,34,31,413,1,429,1,Dallas
-2016,Division,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 15,8:20PM,18,16,389,1,227,2,Kansas City
-2016,ConfChamp,Atlanta Falcons,Green Bay Packers,Atlanta Falcons,,Sun,January 22,3:05PM,44,21,493,0,367,2,Atlanta
-2016,ConfChamp,New England Patriots,Pittsburgh Steelers,New England Patriots,,Sun,January 22,6:40PM,36,17,431,0,368,2,New England
-2016,SuperBowl,New England Patriots,Atlanta Falcons,New England Patriots,,Sun,February 5,6:30PM,34,28,546,2,344,1,New England
-2017,WildCard,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,,Sat,January 6,4:35PM,22,21,397,2,325,0,Kansas City
-2017,WildCard,Los Angeles Rams,Atlanta Falcons,Atlanta Falcons,,Sat,January 6,8:15PM,26,13,322,0,361,2,Los Angeles
-2017,WildCard,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,,Sun,January 7,1:05PM,10,3,230,0,263,2,Jacksonville
-2017,WildCard,New Orleans Saints,Carolina Panthers,New Orleans Saints,,Sun,January 7,4:40PM,31,26,410,1,413,0,New Orleans
-2017,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sat,January 13,4:35PM,15,10,334,2,281,0,Philadelphia
-2017,Division,New England Patriots,Tennessee Titans,New England Patriots,,Sat,January 13,8:15PM,35,14,438,0,267,0,New England
-2017,Division,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,,Sun,January 14,1:05PM,45,42,378,0,545,2,Pittsburgh
-2017,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,,Sun,January 14,4:40PM,29,24,403,1,358,2,Minnesota
-2017,ConfChamp,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sun,January 21,3:05PM,24,20,344,1,374,0,New England
-2017,ConfChamp,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,,Sun,January 21,6:40PM,38,7,456,0,333,3,Philadelphia
-2017,SuperBowl,Philadelphia Eagles,New England Patriots,Philadelphia Eagles,,Sun,February 4,6:30PM,41,33,538,1,613,1,Philadelphia
-2018,WildCard,Houston Texans,Indianapolis Colts,Indianapolis Colts,,Sat,January 5,4:35PM,21,7,422,1,322,1,Houston
-2018,WildCard,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,,Sat,January 5,8:15PM,24,22,380,1,299,0,Dallas
-2018,WildCard,Baltimore Ravens,Los Angeles Chargers,Los Angeles Chargers,,Sun,January 6,1:05PM,23,17,243,1,229,3,Baltimore
-2018,WildCard,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 6,4:40PM,16,15,300,2,356,0,Chicago
-2018,Division,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,,Sat,January 12,4:35PM,31,13,433,1,266,1,Kansas City
-2018,Division,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams,,Sat,January 12,8:15PM,30,22,459,0,308,0,Los Angeles
-2018,Division,New England Patriots,Los Angeles Chargers,New England Patriots,,Sun,January 13,1:05PM,41,28,498,0,335,2,New England
-2018,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,,Sun,January 13,4:40PM,20,14,420,1,250,2,New Orleans
-2018,ConfChamp,New Orleans Saints,Los Angeles Rams,Los Angeles Rams,,Sun,January 20,3:05PM,26,23,378,1,290,1,New Orleans
-2018,ConfChamp,Kansas City Chiefs,New England Patriots,New England Patriots,,Sun,January 20,6:40PM,37,31,524,2,290,0,Kansas City
-2018,SuperBowl,New England Patriots,Los Angeles Rams,New England Patriots,,Sun,February 3,6:30PM,13,3,407,1,260,1,New England
-2019,WildCard,Houston Texans,Buffalo Bills,Houston Texans,,Sat,January 4,4:35PM,22,19,360,1,425,1,Houston
-2019,WildCard,New England Patriots,Tennessee Titans,Tennessee Titans,,Sat,January 4,8:15PM,20,13,272,1,307,2,New England
-2019,WildCard,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,,Sun,January 5,1:05PM,26,20,362,1,324,2,New Orleans
-2019,WildCard,Philadelphia Eagles,Seattle Seahawks,Seattle Seahawks,,Sun,January 5,4:40PM,17,9,382,0,282,0,Philadelphia
-2019,Division,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,,Sat,January 11,4:35PM,27,10,308,2,147,2,San Francisco
-2019,Division,Baltimore Ravens,Tennessee Titans,Tennessee Titans,,Sat,January 11,8:15PM,28,12,300,0,530,3,Baltimore
-2019,Division,Kansas City Chiefs,Houston Texans,Kansas City Chiefs,,Sun,January 12,3:05PM,51,31,434,1,442,1,Kansas City
-2019,Division,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sun,January 12,6:40PM,28,23,344,0,375,0,Green Bay
-2019,ConfChamp,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs,,Sun,January 19,3:05PM,35,24,404,0,295,0,Kansas City
-2019,ConfChamp,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,,Sun,January 19,6:40PM,37,20,354,0,358,3,San Francisco
-2019,SuperBowl,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,,Sun,February 2,6:30PM,31,20,397,2,351,2,Kansas City
+year,week,home_team,away_team,winner,tie,day,date,time,pts_win,pts_loss,yds_win,turnovers_win,yds_loss,turnovers_loss,home_team_city,away_team_city
+2000,WildCard,Miami Dolphins,Indianapolis Colts,Miami Dolphins,,Sat,December 30,12:33PM,23,17,434,3,293,0,Miami,Indianapolis
+2000,WildCard,New Orleans Saints,St. Louis Rams,New Orleans Saints,,Sat,December 30,4:05PM,31,28,301,2,384,5,New Orleans,St. Louis
+2000,WildCard,Baltimore Ravens,Denver Broncos,Baltimore Ravens,,Sun,December 31,12:35PM,21,3,240,0,177,1,Baltimore,Denver
+2000,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,,Sun,December 31,4:16PM,21,3,277,1,199,1,Philadelphia,Tampa Bay
+2000,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,,Sat,January 6,12:30PM,34,16,429,0,355,2,Minnesota,New Orleans
+2000,Division,Oakland Raiders,Miami Dolphins,Oakland Raiders,,Sat,January 6,4:05PM,27,0,267,1,204,4,Oakland,Miami
+2000,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,,Sun,January 7,12:35PM,24,10,134,0,317,1,Tennessee,Baltimore
+2000,Division,New York Giants,Philadelphia Eagles,New York Giants,,Sun,January 7,4:15PM,20,10,237,3,186,3,New York,Philadelphia
+2000,ConfChamp,New York Giants,Minnesota Vikings,New York Giants,,Sun,January 14,12:37PM,41,0,518,2,114,5,New York,Minnesota
+2000,ConfChamp,Oakland Raiders,Baltimore Ravens,Baltimore Ravens,,Sun,January 14,4:05PM,16,3,282,2,191,5,Oakland,Baltimore
+2000,SuperBowl,Baltimore Ravens,New York Giants,Baltimore Ravens,,Sun,January 28,6:28PM,34,7,244,0,152,5,Baltimore,New York
+2001,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,,Sat,January 12,4:39PM,31,9,334,1,258,4,Philadelphia,Tampa Bay
+2001,WildCard,Oakland Raiders,New York Jets,Oakland Raiders,,Sat,January 12,8:07PM,38,24,502,0,410,2,Oakland,New York
+2001,WildCard,Green Bay Packers,San Francisco 49ers,Green Bay Packers,,Sun,January 13,12:35PM,25,15,368,1,290,2,Green Bay,San Francisco
+2001,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,,Sun,January 13,4:05PM,20,3,347,1,151,3,Miami,Baltimore
+2001,Division,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,,Sat,January 19,4:37PM,33,19,336,1,184,4,Chicago,Philadelphia
+2001,Division,New England Patriots,Oakland Raiders,New England Patriots,,Sat,January 19,8:05PM,16,13,365,1,230,0,New England,Oakland
+2001,Division,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sun,January 20,12:40PM,27,10,297,1,150,4,Pittsburgh,Baltimore
+2001,Division,St. Louis Rams,Green Bay Packers,St. Louis Rams,,Sun,January 20,4:15PM,45,17,292,1,383,8,St. Louis,Green Bay
+2001,ConfChamp,Pittsburgh Steelers,New England Patriots,New England Patriots,,Sun,January 27,12:40PM,24,17,259,0,306,4,Pittsburgh,New England
+2001,ConfChamp,St. Louis Rams,Philadelphia Eagles,St. Louis Rams,,Sun,January 27,4:27PM,29,24,371,0,256,2,St. Louis,Philadelphia
+2001,SuperBowl,New England Patriots,St. Louis Rams,New England Patriots,,Sun,February 3,6:40PM,20,17,267,0,427,3,New England,St. Louis
+2002,WildCard,New York Jets,Indianapolis Colts,New York Jets,,Sat,January 4,4:39PM,41,0,396,0,176,3,New York,Indianapolis
+2002,WildCard,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,,Sat,January 4,8:08PM,27,7,309,0,289,5,Green Bay,Atlanta
+2002,WildCard,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,,Sun,January 5,1:01PM,36,33,432,3,447,1,Pittsburgh,Cleveland
+2002,WildCard,San Francisco 49ers,New York Giants,San Francisco 49ers,,Sun,January 5,4:47PM,39,38,446,2,446,1,San Francisco,New York
+2002,Division,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,,Sat,January 11,4:36PM,34,31,430,4,324,1,Tennessee,Pittsburgh
+2002,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sat,January 11,8:21PM,20,6,318,0,354,2,Philadelphia,Atlanta
+2002,Division,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers,,Sun,January 12,1:01PM,31,6,329,2,228,5,Tampa Bay,San Francisco
+2002,Division,Oakland Raiders,New York Jets,Oakland Raiders,,Sun,January 12,4:45PM,30,10,399,1,287,4,Oakland,New York
+2002,ConfChamp,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,,Sun,January 19,3:08PM,27,10,308,1,312,3,Philadelphia,Tampa Bay
+2002,ConfChamp,Oakland Raiders,Tennessee Titans,Oakland Raiders,,Sun,January 19,6:47PM,41,24,375,1,312,2,Oakland,Tennessee
+2002,SuperBowl,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers,,Sun,January 26,6:26PM,48,21,365,1,269,5,Tampa Bay,Oakland
+2003,WildCard,Baltimore Ravens,Tennessee Titans,Tennessee Titans,,Sat,January 3,4:37PM,20,17,324,3,255,2,Baltimore,Tennessee
+2003,WildCard,Carolina Panthers,Dallas Cowboys,Carolina Panthers,,Sat,January 3,8:09PM,29,10,380,0,204,2,Carolina,Dallas
+2003,WildCard,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sun,January 4,1:04PM,33,27,397,0,340,1,Green Bay,Seattle
+2003,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,,Sun,January 4,4:42PM,41,10,479,1,322,3,Indianapolis,Denver
+2003,Division,St. Louis Rams,Carolina Panthers,Carolina Panthers,,Sat,January 10,4:30PM,29,23,485,1,380,3,St. Louis,Carolina
+2003,Division,New England Patriots,Tennessee Titans,New England Patriots,,Sat,January 10,8:15PM,17,14,297,1,284,1,New England,Tennessee
+2003,Division,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,,Sun,January 11,1:00PM,38,31,434,0,408,1,Kansas City,Indianapolis
+2003,Division,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,,Sun,January 11,4:46PM,20,17,363,1,381,1,Philadelphia,Green Bay
+2003,ConfChamp,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 18,3:06PM,24,14,349,2,306,5,New England,Indianapolis
+2003,ConfChamp,Philadelphia Eagles,Carolina Panthers,Carolina Panthers,,Sun,January 18,6:50PM,14,3,256,0,289,4,Philadelphia,Carolina
+2003,SuperBowl,New England Patriots,Carolina Panthers,New England Patriots,,Sun,February 1,6:25PM,32,29,481,1,387,1,New England,Carolina
+2004,WildCard,Seattle Seahawks,St. Louis Rams,St. Louis Rams,,Sat,January 8,4:37PM,27,20,396,1,413,1,Seattle,St. Louis
+2004,WildCard,San Diego Chargers,New York Jets,New York Jets,,Sat,January 8,8:14PM,20,17,396,0,408,1,San Diego,New York
+2004,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,,Sun,January 9,1:07PM,49,24,530,1,338,1,Indianapolis,Denver
+2004,WildCard,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,,Sun,January 9,4:39PM,31,17,384,0,306,4,Green Bay,Minnesota
+2004,Division,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,,Sat,January 15,4:36PM,20,17,364,3,275,1,Pittsburgh,New York
+2004,Division,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,,Sat,January 15,8:22PM,47,17,397,1,339,2,Atlanta,St. Louis
+2004,Division,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,,Sun,January 16,1:06PM,27,14,395,1,385,2,Philadelphia,Minnesota
+2004,Division,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 16,4:45PM,20,3,325,0,276,3,New England,Indianapolis
+2004,ConfChamp,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sun,January 23,3:08PM,27,10,326,0,202,1,Philadelphia,Atlanta
+2004,ConfChamp,Pittsburgh Steelers,New England Patriots,New England Patriots,,Sun,January 23,6:36PM,41,27,322,0,388,4,Pittsburgh,New England
+2004,SuperBowl,New England Patriots,Philadelphia Eagles,New England Patriots,,Sun,February 6,6:38PM,24,21,331,1,369,4,New England,Philadelphia
+2005,WildCard,Tampa Bay Buccaneers,Washington Redskins,Washington Redskins,,Sat,January 7,4:34PM,17,10,120,1,243,3,Tampa Bay,Washington
+2005,WildCard,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sat,January 7,8:08PM,28,3,307,0,292,2,New England,Jacksonville
+2005,WildCard,New York Giants,Carolina Panthers,Carolina Panthers,,Sun,January 8,1:04PM,23,0,335,0,132,5,New York,Carolina
+2005,WildCard,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 8,4:36PM,31,17,346,0,327,2,Cincinnati,Pittsburgh
+2005,Division,Seattle Seahawks,Washington Redskins,Seattle Seahawks,,Sat,January 14,4:35PM,20,10,334,3,289,1,Seattle,Washington
+2005,Division,Denver Broncos,New England Patriots,Denver Broncos,,Sat,January 14,8:16PM,27,13,286,1,420,5,Denver,New England
+2005,Division,Indianapolis Colts,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 15,1:04PM,21,18,295,2,305,0,Indianapolis,Pittsburgh
+2005,Division,Chicago Bears,Carolina Panthers,Carolina Panthers,,Sun,January 15,4:41PM,29,21,434,1,282,1,Chicago,Carolina
+2005,ConfChamp,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 22,3:08PM,34,17,358,0,308,4,Denver,Pittsburgh
+2005,ConfChamp,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,,Sun,January 22,6:47PM,34,14,393,0,212,4,Seattle,Carolina
+2005,SuperBowl,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,,Sun,February 5,6:27PM,21,10,339,2,396,1,Pittsburgh,Seattle
+2006,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,,Sat,January 6,4:35PM,23,8,435,3,126,3,Indianapolis,Kansas City
+2006,WildCard,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,,Sat,January 6,8:09PM,21,20,332,2,284,1,Seattle,Dallas
+2006,WildCard,New England Patriots,New York Jets,New England Patriots,,Sun,January 7,1:05PM,37,16,358,1,347,2,New England,New York
+2006,WildCard,Philadelphia Eagles,New York Giants,Philadelphia Eagles,,Sun,January 7,4:39PM,23,20,323,0,305,1,Philadelphia,New York
+2006,Division,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,,Sat,January 13,4:35PM,15,6,261,2,244,4,Baltimore,Indianapolis
+2006,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,,Sat,January 13,8:11PM,27,24,435,1,355,0,New Orleans,Philadelphia
+2006,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,,Sun,January 14,1:06PM,27,24,371,2,306,1,Chicago,Seattle
+2006,Division,San Diego Chargers,New England Patriots,New England Patriots,,Sun,January 14,4:40PM,24,21,327,3,352,4,San Diego,New England
+2006,ConfChamp,Chicago Bears,New Orleans Saints,Chicago Bears,,Sun,January 21,3:06PM,39,14,340,0,375,4,Chicago,New Orleans
+2006,ConfChamp,Indianapolis Colts,New England Patriots,Indianapolis Colts,,Sun,January 21,6:44PM,38,34,455,1,319,1,Indianapolis,New England
+2006,SuperBowl,Indianapolis Colts,Chicago Bears,Indianapolis Colts,,Sun,February 4,6:27PM,29,17,430,3,265,5,Indianapolis,Chicago
+2007,WildCard,Seattle Seahawks,Washington Redskins,Seattle Seahawks,,Sat,January 5,4:35PM,35,14,304,2,319,2,Seattle,Washington
+2007,WildCard,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,,Sat,January 5,8:13PM,31,29,239,2,340,4,Pittsburgh,Jacksonville
+2007,WildCard,Tampa Bay Buccaneers,New York Giants,New York Giants,,Sun,January 6,1:03PM,24,14,277,0,271,3,Tampa Bay,New York
+2007,WildCard,San Diego Chargers,Tennessee Titans,San Diego Chargers,,Sun,January 6,4:30PM,17,6,350,1,248,2,San Diego,Tennessee
+2007,Division,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sat,January 12,4:33PM,42,20,408,2,200,1,Green Bay,Seattle
+2007,Division,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sat,January 12,8:15PM,31,20,403,0,350,2,New England,Jacksonville
+2007,Division,Indianapolis Colts,San Diego Chargers,San Diego Chargers,,Sun,January 13,1:06PM,28,24,411,1,446,3,Indianapolis,San Diego
+2007,Division,Dallas Cowboys,New York Giants,New York Giants,,Sun,January 13,4:45PM,21,17,230,0,336,1,Dallas,New York
+2007,ConfChamp,New England Patriots,San Diego Chargers,New England Patriots,,Sun,January 20,3:05PM,21,12,347,3,311,2,New England,San Diego
+2007,ConfChamp,Green Bay Packers,New York Giants,New York Giants,,Sun,January 20,6:42PM,23,20,377,1,264,2,Green Bay,New York
+2007,SuperBowl,New York Giants,New England Patriots,New York Giants,,Sun,February 3,6:30PM,17,14,338,1,274,1,New York,New England
+2008,WildCard,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,,Sat,January 3,4:36PM,30,24,357,1,250,3,Arizona,Atlanta
+2008,WildCard,San Diego Chargers,Indianapolis Colts,San Diego Chargers,,Sat,January 3,8:08PM,23,17,357,2,366,0,San Diego,Indianapolis
+2008,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,,Sun,January 4,1:03PM,27,9,286,1,276,5,Miami,Baltimore
+2008,WildCard,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 4,4:40PM,26,14,350,2,301,2,Minnesota,Philadelphia
+2008,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,,Sat,January 10,4:33PM,13,10,211,0,391,3,Tennessee,Baltimore
+2008,Division,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,,Sat,January 10,8:16PM,33,13,360,1,269,6,Carolina,Arizona
+2008,Division,New York Giants,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 11,1:06PM,23,11,276,2,307,3,New York,Philadelphia
+2008,Division,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,,Sun,January 11,4:45PM,35,24,342,0,290,2,Pittsburgh,San Diego
+2008,ConfChamp,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,,Sun,January 18,4:06PM,32,25,369,1,454,3,Arizona,Philadelphia
+2008,ConfChamp,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sun,January 18,6:43PM,23,14,275,1,198,4,Pittsburgh,Baltimore
+2008,SuperBowl,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers,,Sun,February 1,6:31PM,27,23,292,1,407,2,Pittsburgh,Arizona
+2009,WildCard,Cincinnati Bengals,New York Jets,New York Jets,,Sat,January 9,4:36PM,24,14,353,0,281,2,Cincinnati,New York
+2009,WildCard,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,,Sat,January 9,8:05PM,34,14,426,1,340,4,Dallas,Philadelphia
+2009,WildCard,New England Patriots,Baltimore Ravens,Baltimore Ravens,,Sun,January 10,1:03PM,33,14,268,2,196,4,New England,Baltimore
+2009,WildCard,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,,Sun,January 10,4:30PM,51,45,531,1,493,3,Arizona,Green Bay
+2009,Division,New Orleans Saints,Arizona Cardinals,New Orleans Saints,,Sat,January 16,4:34PM,45,14,418,0,359,2,New Orleans,Arizona
+2009,Division,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,,Sat,January 16,8:15PM,20,3,275,1,270,4,Indianapolis,Baltimore
+2009,Division,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,,Sun,January 17,1:05PM,34,3,323,0,248,3,Minnesota,Dallas
+2009,Division,San Diego Chargers,New York Jets,New York Jets,,Sun,January 17,4:40PM,17,14,262,1,344,2,San Diego,New York
+2009,ConfChamp,Indianapolis Colts,New York Jets,Indianapolis Colts,,Sun,January 24,3:05PM,30,17,461,1,388,1,Indianapolis,New York
+2009,ConfChamp,New Orleans Saints,Minnesota Vikings,New Orleans Saints,,Sun,January 24,6:45PM,31,28,257,1,475,5,New Orleans,Minnesota
+2009,SuperBowl,New Orleans Saints,Indianapolis Colts,New Orleans Saints,,Sun,February 7,6:31PM,31,17,332,0,432,1,New Orleans,Indianapolis
+2010,WildCard,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,,Sat,January 8,4:35PM,41,36,415,1,474,1,Seattle,New Orleans
+2010,WildCard,Indianapolis Colts,New York Jets,New York Jets,,Sat,January 8,8:15PM,17,16,353,1,312,0,Indianapolis,New York
+2010,WildCard,Kansas City Chiefs,Baltimore Ravens,Baltimore Ravens,,Sun,January 9,1:06PM,30,7,390,2,161,5,Kansas City,Baltimore
+2010,WildCard,Philadelphia Eagles,Green Bay Packers,Green Bay Packers,,Sun,January 9,4:40PM,21,16,309,2,352,1,Philadelphia,Green Bay
+2010,Division,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,,Sat,January 15,4:35PM,31,24,263,2,126,3,Pittsburgh,Baltimore
+2010,Division,Atlanta Falcons,Green Bay Packers,Green Bay Packers,,Sat,January 15,8:15PM,48,21,442,1,194,4,Atlanta,Green Bay
+2010,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,,Sun,January 16,1:05PM,35,24,437,1,276,0,Chicago,Seattle
+2010,Division,New England Patriots,New York Jets,New York Jets,,Sun,January 16,4:40PM,28,21,314,0,372,1,New England,New York
+2010,ConfChamp,Chicago Bears,Green Bay Packers,Green Bay Packers,,Sun,January 23,3:05PM,21,14,356,2,301,3,Chicago,Green Bay
+2010,ConfChamp,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,,Sun,January 23,6:41PM,24,19,287,2,289,1,Pittsburgh,New York
+2010,SuperBowl,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,,Sun,February 6,6:34PM,31,25,338,0,387,3,Green Bay,Pittsburgh
+2011,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,,Sat,January 7,4:35PM,31,10,340,0,300,3,Houston,Cincinnati
+2011,WildCard,New Orleans Saints,Detroit Lions,New Orleans Saints,,Sat,January 7,8:09PM,45,28,626,2,412,2,New Orleans,Detroit
+2011,WildCard,New York Giants,Atlanta Falcons,New York Giants,,Sun,January 8,1:06PM,24,2,442,0,247,0,New York,Atlanta
+2011,WildCard,Denver Broncos,Pittsburgh Steelers,Denver Broncos,,Sun,January 8,4:40PM,29,23,447,1,400,1,Denver,Pittsburgh
+2011,Division,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,,Sat,January 14,4:35PM,36,32,407,1,472,5,San Francisco,New Orleans
+2011,Division,New England Patriots,Denver Broncos,New England Patriots,,Sat,January 14,8:15PM,45,10,509,2,252,1,New England,Denver
+2011,Division,Baltimore Ravens,Houston Texans,Baltimore Ravens,,Sun,January 15,1:05PM,20,13,227,0,315,4,Baltimore,Houston
+2011,Division,Green Bay Packers,New York Giants,New York Giants,,Sun,January 15,4:40PM,37,20,420,1,388,4,Green Bay,New York
+2011,ConfChamp,New England Patriots,Baltimore Ravens,New England Patriots,,Sun,January 22,3:05PM,23,20,330,3,398,1,New England,Baltimore
+2011,ConfChamp,San Francisco 49ers,New York Giants,New York Giants,,Sun,January 22,6:41PM,20,17,352,0,328,2,San Francisco,New York
+2011,SuperBowl,New York Giants,New England Patriots,New York Giants,,Sun,February 5,6:30PM,21,17,396,0,349,1,New York,New England
+2012,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,,Sat,January 5,4:35PM,19,13,420,1,198,1,Houston,Cincinnati
+2012,WildCard,Green Bay Packers,Minnesota Vikings,Green Bay Packers,,Sat,January 5,8:09PM,24,10,326,0,324,3,Green Bay,Minnesota
+2012,WildCard,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,,Sun,January 6,1:07PM,24,9,439,2,419,2,Baltimore,Indianapolis
+2012,WildCard,Washington Redskins,Seattle Seahawks,Seattle Seahawks,,Sun,January 6,4:40PM,24,14,380,1,203,2,Washington,Seattle
+2012,Division,Denver Broncos,Baltimore Ravens,Baltimore Ravens,,Sat,January 12,4:36PM,38,35,479,1,398,3,Denver,Baltimore
+2012,Division,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,,Sat,January 12,8:25PM,45,31,579,1,352,2,San Francisco,Green Bay
+2012,Division,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,,Sun,January 13,1:05PM,30,28,417,2,491,2,Atlanta,Seattle
+2012,Division,New England Patriots,Houston Texans,New England Patriots,,Sun,January 13,4:40PM,41,28,457,0,425,1,New England,Houston
+2012,ConfChamp,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,,Sun,January 20,3:05PM,28,24,373,1,477,2,Atlanta,San Francisco
+2012,ConfChamp,New England Patriots,Baltimore Ravens,Baltimore Ravens,,Sun,January 20,6:40PM,28,13,356,0,428,3,New England,Baltimore
+2012,SuperBowl,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens,,Sun,February 3,6:31PM,34,31,367,1,468,2,Baltimore,San Francisco
+2013,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,,Sat,January 4,4:35PM,45,44,536,4,513,1,Indianapolis,Kansas City
+2013,WildCard,Philadelphia Eagles,New Orleans Saints,New Orleans Saints,,Sat,January 4,8:14PM,26,24,434,2,256,0,Philadelphia,New Orleans
+2013,WildCard,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,,Sun,January 5,1:06PM,27,10,318,0,439,4,Cincinnati,San Diego
+2013,WildCard,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,,Sun,January 5,4:40PM,23,20,381,1,281,0,Green Bay,San Francisco
+2013,Division,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,,Sat,January 11,4:36PM,23,15,277,0,409,1,Seattle,New Orleans
+2013,Division,New England Patriots,Indianapolis Colts,New England Patriots,,Sat,January 11,8:15PM,43,22,419,0,386,4,New England,Indianapolis
+2013,Division,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,,Sun,January 12,1:05PM,23,10,315,0,325,2,Carolina,San Francisco
+2013,Division,Denver Broncos,San Diego Chargers,Denver Broncos,,Sun,January 12,4:40PM,24,17,363,2,259,0,Denver,San Diego
+2013,ConfChamp,Denver Broncos,New England Patriots,Denver Broncos,,Sun,January 19,3:06PM,26,16,507,0,320,0,Denver,New England
+2013,ConfChamp,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,,Sun,January 19,6:42PM,23,17,308,1,308,3,Seattle,San Francisco
+2013,SuperBowl,Seattle Seahawks,Denver Broncos,Seattle Seahawks,,Sun,February 2,6:32PM,43,8,341,0,306,4,Seattle,Denver
+2014,WildCard,Carolina Panthers,Arizona Cardinals,Carolina Panthers,,Sat,January 3,4:20PM,27,16,386,3,78,3,Carolina,Arizona
+2014,WildCard,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,,Sat,January 3,8:15PM,30,17,299,1,387,3,Pittsburgh,Baltimore
+2014,WildCard,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,,Sun,January 4,1:05PM,26,10,482,1,254,1,Indianapolis,Cincinnati
+2014,WildCard,Dallas Cowboys,Detroit Lions,Dallas Cowboys,,Sun,January 4,4:41PM,24,20,315,1,397,3,Dallas,Detroit
+2014,Division,New England Patriots,Baltimore Ravens,New England Patriots,,Sat,January 10,4:35PM,35,31,422,1,428,2,New England,Baltimore
+2014,Division,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,,Sat,January 10,8:21PM,31,17,348,0,362,3,Seattle,Carolina
+2014,Division,Green Bay Packers,Dallas Cowboys,Green Bay Packers,,Sun,January 11,1:05PM,26,21,416,1,315,1,Green Bay,Dallas
+2014,Division,Denver Broncos,Indianapolis Colts,Indianapolis Colts,,Sun,January 11,4:40PM,24,13,364,2,288,1,Denver,Indianapolis
+2014,ConfChamp,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,,Sun,January 18,3:06PM,28,22,397,5,306,2,Seattle,Green Bay
+2014,ConfChamp,New England Patriots,Indianapolis Colts,New England Patriots,,Sun,January 18,6:50PM,45,7,397,1,209,3,New England,Indianapolis
+2014,SuperBowl,New England Patriots,Seattle Seahawks,New England Patriots,,Sun,February 1,6:30PM,28,24,377,2,396,1,New England,Seattle
+2015,WildCard,Houston Texans,Kansas City Chiefs,Kansas City Chiefs,,Sat,January 9,4:35PM,30,0,314,1,226,5,Houston,Kansas City
+2015,WildCard,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,,Sat,January 9,8:15PM,18,16,369,2,279,4,Cincinnati,Pittsburgh
+2015,WildCard,Minnesota Vikings,Seattle Seahawks,Seattle Seahawks,,Sun,January 10,1:05PM,10,9,226,1,183,1,Minnesota,Seattle
+2015,WildCard,Washington Redskins,Green Bay Packers,Green Bay Packers,,Sun,January 10,4:42PM,35,18,346,1,354,1,Washington,Green Bay
+2015,Division,New England Patriots,Kansas City Chiefs,New England Patriots,,Sat,January 16,4:35PM,27,20,340,0,378,1,New England,Kansas City
+2015,Division,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,,Sat,January 16,8:15PM,26,20,368,2,386,1,Arizona,Green Bay
+2015,Division,Carolina Panthers,Seattle Seahawks,Carolina Panthers,,Sun,January 17,1:06PM,31,24,295,0,403,2,Carolina,Seattle
+2015,Division,Denver Broncos,Pittsburgh Steelers,Denver Broncos,,Sun,January 17,4:40PM,23,16,324,0,396,1,Denver,Pittsburgh
+2015,ConfChamp,Denver Broncos,New England Patriots,Denver Broncos,,Sun,January 24,3:05PM,20,18,244,1,336,2,Denver,New England
+2015,ConfChamp,Carolina Panthers,Arizona Cardinals,Carolina Panthers,,Sun,January 24,6:42PM,49,15,476,1,287,7,Carolina,Arizona
+2015,SuperBowl,Denver Broncos,Carolina Panthers,Denver Broncos,,Sun,February 7,6:39PM,24,10,194,2,315,4,Denver,Carolina
+2016,WildCard,Houston Texans,Oakland Raiders,Houston Texans,,Sat,January 7,4:35PM,27,14,291,0,203,3,Houston,Oakland
+2016,WildCard,Seattle Seahawks,Detroit Lions,Seattle Seahawks,,Sat,January 7,8:15PM,26,6,387,0,231,0,Seattle,Detroit
+2016,WildCard,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,,Sun,January 8,1:05PM,30,12,367,2,305,3,Pittsburgh,Miami
+2016,WildCard,Green Bay Packers,New York Giants,Green Bay Packers,,Sun,January 8,4:40PM,38,13,406,0,365,2,Green Bay,New York
+2016,Division,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,,Sat,January 14,4:35PM,36,20,422,0,309,2,Atlanta,Seattle
+2016,Division,New England Patriots,Houston Texans,New England Patriots,,Sat,January 14,8:15PM,34,16,377,3,285,3,New England,Houston
+2016,Division,Dallas Cowboys,Green Bay Packers,Green Bay Packers,,Sun,January 15,4:40PM,34,31,413,1,429,1,Dallas,Green Bay
+2016,Division,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,,Sun,January 15,8:20PM,18,16,389,1,227,2,Kansas City,Pittsburgh
+2016,ConfChamp,Atlanta Falcons,Green Bay Packers,Atlanta Falcons,,Sun,January 22,3:05PM,44,21,493,0,367,2,Atlanta,Green Bay
+2016,ConfChamp,New England Patriots,Pittsburgh Steelers,New England Patriots,,Sun,January 22,6:40PM,36,17,431,0,368,2,New England,Pittsburgh
+2016,SuperBowl,New England Patriots,Atlanta Falcons,New England Patriots,,Sun,February 5,6:30PM,34,28,546,2,344,1,New England,Atlanta
+2017,WildCard,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,,Sat,January 6,4:35PM,22,21,397,2,325,0,Kansas City,Tennessee
+2017,WildCard,Los Angeles Rams,Atlanta Falcons,Atlanta Falcons,,Sat,January 6,8:15PM,26,13,322,0,361,2,Los Angeles,Atlanta
+2017,WildCard,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,,Sun,January 7,1:05PM,10,3,230,0,263,2,Jacksonville,Buffalo
+2017,WildCard,New Orleans Saints,Carolina Panthers,New Orleans Saints,,Sun,January 7,4:40PM,31,26,410,1,413,0,New Orleans,Carolina
+2017,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,,Sat,January 13,4:35PM,15,10,334,2,281,0,Philadelphia,Atlanta
+2017,Division,New England Patriots,Tennessee Titans,New England Patriots,,Sat,January 13,8:15PM,35,14,438,0,267,0,New England,Tennessee
+2017,Division,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,,Sun,January 14,1:05PM,45,42,378,0,545,2,Pittsburgh,Jacksonville
+2017,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,,Sun,January 14,4:40PM,29,24,403,1,358,2,Minnesota,New Orleans
+2017,ConfChamp,New England Patriots,Jacksonville Jaguars,New England Patriots,,Sun,January 21,3:05PM,24,20,344,1,374,0,New England,Jacksonville
+2017,ConfChamp,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,,Sun,January 21,6:40PM,38,7,456,0,333,3,Philadelphia,Minnesota
+2017,SuperBowl,Philadelphia Eagles,New England Patriots,Philadelphia Eagles,,Sun,February 4,6:30PM,41,33,538,1,613,1,Philadelphia,New England
+2018,WildCard,Houston Texans,Indianapolis Colts,Indianapolis Colts,,Sat,January 5,4:35PM,21,7,422,1,322,1,Houston,Indianapolis
+2018,WildCard,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,,Sat,January 5,8:15PM,24,22,380,1,299,0,Dallas,Seattle
+2018,WildCard,Baltimore Ravens,Los Angeles Chargers,Los Angeles Chargers,,Sun,January 6,1:05PM,23,17,243,1,229,3,Baltimore,Los Angeles
+2018,WildCard,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,,Sun,January 6,4:40PM,16,15,300,2,356,0,Chicago,Philadelphia
+2018,Division,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,,Sat,January 12,4:35PM,31,13,433,1,266,1,Kansas City,Indianapolis
+2018,Division,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams,,Sat,January 12,8:15PM,30,22,459,0,308,0,Los Angeles,Dallas
+2018,Division,New England Patriots,Los Angeles Chargers,New England Patriots,,Sun,January 13,1:05PM,41,28,498,0,335,2,New England,Los Angeles
+2018,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,,Sun,January 13,4:40PM,20,14,420,1,250,2,New Orleans,Philadelphia
+2018,ConfChamp,New Orleans Saints,Los Angeles Rams,Los Angeles Rams,,Sun,January 20,3:05PM,26,23,378,1,290,1,New Orleans,Los Angeles
+2018,ConfChamp,Kansas City Chiefs,New England Patriots,New England Patriots,,Sun,January 20,6:40PM,37,31,524,2,290,0,Kansas City,New England
+2018,SuperBowl,New England Patriots,Los Angeles Rams,New England Patriots,,Sun,February 3,6:30PM,13,3,407,1,260,1,New England,Los Angeles
+2019,WildCard,Houston Texans,Buffalo Bills,Houston Texans,,Sat,January 4,4:35PM,22,19,360,1,425,1,Houston,Buffalo
+2019,WildCard,New England Patriots,Tennessee Titans,Tennessee Titans,,Sat,January 4,8:15PM,20,13,272,1,307,2,New England,Tennessee
+2019,WildCard,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,,Sun,January 5,1:05PM,26,20,362,1,324,2,New Orleans,Minnesota
+2019,WildCard,Philadelphia Eagles,Seattle Seahawks,Seattle Seahawks,,Sun,January 5,4:40PM,17,9,382,0,282,0,Philadelphia,Seattle
+2019,Division,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,,Sat,January 11,4:35PM,27,10,308,2,147,2,San Francisco,Minnesota
+2019,Division,Baltimore Ravens,Tennessee Titans,Tennessee Titans,,Sat,January 11,8:15PM,28,12,300,0,530,3,Baltimore,Tennessee
+2019,Division,Kansas City Chiefs,Houston Texans,Kansas City Chiefs,,Sun,January 12,3:05PM,51,31,434,1,442,1,Kansas City,Houston
+2019,Division,Green Bay Packers,Seattle Seahawks,Green Bay Packers,,Sun,January 12,6:40PM,28,23,344,0,375,0,Green Bay,Seattle
+2019,ConfChamp,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs,,Sun,January 19,3:05PM,35,24,404,0,295,0,Kansas City,Tennessee
+2019,ConfChamp,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,,Sun,January 19,6:40PM,37,20,354,0,358,3,San Francisco,Green Bay
+2019,SuperBowl,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,,Sun,February 2,6:30PM,31,20,397,2,351,2,Kansas City,San Francisco
