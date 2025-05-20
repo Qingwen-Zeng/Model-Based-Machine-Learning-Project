@@ -3,6 +3,7 @@ import pandas as pd
 
 data_path = './processed_data'
 weather_data_path = './weather_data'
+# previously download from https://meteostat.net/en/, of a location near the stadium
 dump_path = './datasets_w_weather_data'
 team_name = 'New York Giants'
 initial_year = 2010
