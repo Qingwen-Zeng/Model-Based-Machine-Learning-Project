@@ -1,10 +1,10 @@
 import pandas as pd
 
-path_folder = './original_data'
+path_folder = './processed_data'
 att_df = pd.read_csv(path_folder+'/attendance.csv')
 games_df = pd.read_csv(path_folder+'/games.csv')
 stands_df = pd.read_csv(path_folder+'/standings.csv')
-attendance_proc_df = pd.read_csv('./processed_data/attendance_capacity_rate.csv')
+# attendance_proc_df = pd.read_csv('./processed_data/attendance_capacity_rate.csv')
 
 games_df.loc[:, 'Winner Name'] = games_df['winner'].apply(lambda x: x.split(' ')[-1])
 

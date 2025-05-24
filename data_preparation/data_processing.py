@@ -27,7 +27,7 @@ games_df = games_df.drop(columns=["home_team_name", "away_team_name"])
 
 # %%
 # Count unique values by team and year on attendance df on total, home, away columns
-attendance_df.groupby(["team_full_name", "year"]).nunique(dropna=False)[["total", "home", "away", "weekly_attendance"]].reset_index().head(20)
+# attendance_df.groupby(["team_full_name", "year"]).nunique(dropna=False)[["total", "home", "away", "weekly_attendance"]].reset_index().head(20)
 
 # %% [markdown]
 # This is telling us that total, home, away are always the same values, thus they dont give any info, we actually care only on weekly attendance, that we see it has 17 different values for the 17 games of the year. Therefore, we can drop it.
@@ -37,7 +37,7 @@ attendance_df = attendance_df.drop(columns=["total","home", "away"])[["year", "t
 
 # %% 
 # In games_df week, there are the 17 weeks, but also 'WildCard' 'Division' 'ConfChamp' 'SuperBowl'
-print(games_df['week'].unique())
+# print(games_df['week'].unique())
 
 # We create a new df with this values called spetial games
 special_games_df = games_df[games_df['week'].isin(['WildCard', 'Division', 'ConfChamp', 'SuperBowl'])].copy()
@@ -62,40 +62,28 @@ standings_df[["playoffs", "team_full_name", "sb_winner"]] = standings_df[["playo
 special_games_df[["year", "pts_win", "pts_loss", "yds_win", "yds_loss", "turnovers_win", "turnovers_loss"]] = special_games_df[["year", "pts_win", "pts_loss", "yds_win", "yds_loss", "turnovers_win", "turnovers_loss"]].astype("Int16", errors="ignore")
 special_games_df[["week", "home_team", "away_team", "home_team_city"]] = special_games_df[["week", "home_team", "away_team", "home_team_city"]].astype("string")
 
+# %%
+# Create the percentage of weekly attendance, we need the stadium capacity
+stadium_df = pd.read_csv(os.path.join(data_folder, 'team_stadium_map.csv'))
 
-# Print the data types of each DataFrame
-
-print("Attendance DataFrame dtypes:")
-print(attendance_df.dtypes)
-print("\nGames DataFrame dtypes:")
-print(games_df.dtypes)
-print("\nStandings DataFrame dtypes:")
-print(standings_df.dtypes)
-print("\nSpecial Games DataFrame dtypes:")
-print(special_games_df.dtypes)
-
-
-# %% 
-# Adding home and away teams to attendance_df
-# Step 1: Create a DataFrame for home teams
-home_df = games_df[['year', 'week', 'home_team']].copy()
-home_df['home'] = True
-home_df.rename(columns={'home_team': 'team_full_name'}, inplace=True)
-
-# Step 2: Create a DataFrame for away teams
-away_df = games_df[['year', 'week', 'away_team']].copy()
-away_df['home'] = False
-away_df.rename(columns={'away_team': 'team_full_name'}, inplace=True)
-
-# Step 3: Combine both home and away into one DataFrame 
-teams_df = pd.concat([home_df, away_df], ignore_index=True)
-
-# Step 4: Merge with attendance_df on year, week, and team name, this is just merging home = {True, False} to attendance using games_df
+# Merge attendance_df with stadium_df using team_full_name from attendance_df and Team from stadium_df
 attendance_df = attendance_df.merge(
-    teams_df,
-    on=['year', 'week', 'team_full_name'],
+    stadium_df,
+    left_on='team_full_name',
+    right_on='Team',
     how='left'
-)
+).drop(columns=['Team'])
+
+attendance_df["weekly_attendance_percent"] = attendance_df["weekly_attendance"] / attendance_df["Capacity"]
+
+# Merge attendance_df with games_df 
+merged_df = pd.merge(
+    games_df,
+    attendance_df,
+    left_on=['home_team', 'year', 'week'],
+    right_on=['team_full_name', 'year', 'week'],
+    how='inner'
+).drop(columns=['team_full_name']).sort_values(by=['year', 'week', 'time'])
 
 # %%
 # Save the cleaned DataFrames to new CSV files
@@ -106,102 +94,5 @@ attendance_df.to_csv(os.path.join(data_folder, 'attendance.csv'), index=False)
 games_df.to_csv(os.path.join(data_folder, 'games.csv'), index=False)
 standings_df.to_csv(os.path.join(data_folder, 'standings.csv'), index=False)
 special_games_df.to_csv(os.path.join(data_folder, 'special_games.csv'), index=False)
-
-
-import pandas as pd
-
-input_file  = "original_data/attendance.csv"
-df = pd.read_csv(input_file)
-df["home_team"] = (
-    df["team"].str.strip().str.title()
-    + " "
-    + df["team_name"].str.strip().str.title()
-)
-
-team_stadium_map = {
-    "Arizona Cardinals": "State Farm Stadium",
-    "Atlanta Falcons": "Mercedes Benz Stadium",
-    "Baltimore Ravens": "M&T Bank Stadium",
-    "Buffalo Bills": "Highmark Stadium",
-    "Carolina Panthers": "Bank of America Stadium",
-    "Chicago Bears": "Soldier Field",
-    "Cincinnati Bengals": "Paycor Stadium",
-    "Cleveland Browns": "Huntington Bank Field",
-    "Dallas Cowboys": "AT&T Stadium",
-    "Denver Broncos": "Empower Field at Mile High",
-    "Detroit Lions": "Ford Field",
-    "Green Bay Packers": "Lambeau Field",
-    "Houston Texans": "NRG Stadium",
-    "Indianapolis Colts": "Lucas Oil Stadium",
-    "Jacksonville Jaguars": "TIAA Bank Field",
-    "Kansas City Chiefs": "Arrowhead Stadium",
-    "Las Vegas Raiders": "Allegiant Stadium",
-    "Los Angeles Chargers": "SoFi Stadium",
-    "St. Louis Rams": "SoFi Stadium",
-    "Los Angeles Rams": "SoFi Stadium",
-    "Miami Dolphins": "Hard Rock Stadium",
-    "Minnesota Vikings": "U.S. Bank Stadium",
-    "New England Patriots": "Gillette Stadium",
-    "New Orleans Saints": "Caesars Superdome",
-    "New York Giants": "MetLife Stadium",
-    "New York Jets": "MetLife Stadium",
-    "Philadelphia Eagles": "Lincoln Financial Field",
-    "Pittsburgh Steelers": "Acrisure Stadium",
-    "San Francisco 49Ers": "Levi's Stadium",
-    "Seattle Seahawks": "Lumen Field",
-    "Tampa Bay Buccaneers": "Raymond James Stadium",
-    "Tennessee Titans": "Nissan Stadium",
-    "Washington Redskins": "Commanders Field",
-    "San Diego Chargers":"San Diego Stadium",
-    "Oakland Raiders":"Allegiant Stadium",
-}
-
-df["stadium"] = df["home_team"].map(team_stadium_map)
-
-missing = df["stadium"].isna().sum()
-print(f"{missing} no stadium")
-
-print(df[["home_team", "stadium"]].head())
-df_games = df
-map_capacity = {
-        'MetLife Stadium': 82500,
-        'Lambeau Field': 81441,
-        'AT&T Stadium': 80000,
-        'Arrowhead Stadium': 76416,
-        'Caesars Superdome': 73208,
-        'NRG Stadium': 72220,
-        'Mercedes-Benz Stadium': 71000,
-        'Highmark Stadium': 71608,
-        'SoFi Stadium': 70240,
-        'M&T Bank Stadium': 71008,
-        'Empower Field at Mile High': 76125,
-        'Bank of America Stadium': 74867,
-        'Lincoln Financial Field': 69596,
-        'Lumen Field': 69000,
-        'Nissan Stadium': 69143,
-        'Raymond James Stadium': 69218,
-        'Acrisure Stadium': 68400,
-        "Levi's Stadium": 68500,
-        'Gillette Stadium': 66829,
-        'U.S. Bank Stadium': 66655,
-        'Lucas Oil Stadium': 67000,
-        'Hard Rock Stadium': 65326,
-        'Ford Field': 65000,
-        'Paycor Stadium': 65515,
-        'Allegiant Stadium': 65000,
-        'Soldier Field': 61500,
-        'State Farm Stadium': 63400,
-        'TIAA Bank Field': 67246,
-        'Commanders Field': 62000,
-        'Mercedes Benz Stadium': 71000,  
-        'Huntington Bank Field': 67895,  
-        'San Diego Stadium': 71500
-    }
-df_games["capacity"] = df_games["stadium"].map(map_capacity)
-df_games["capacity_rate"] = df_games["capacity"]/df_games["weekly_attendance"]
-for i in range(len(df_games["capacity_rate"])):
-    if df_games["capacity_rate"][i] > 1:
-        df_games["capacity_rate"][i]=1
-df_games.to_csv("attendance_capacity_rate.csv", index=False)
-
-print(df_games.head())
+merged_df.to_csv(os.path.join(data_folder, 'games_attendance_merged.csv'), index=False)
+print("DataFrames saved to the processed_data folder.")
